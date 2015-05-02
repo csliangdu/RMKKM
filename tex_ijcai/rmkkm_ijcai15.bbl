@@ -1,0 +1,155 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Bishop and others}{2006}]{bishop2006pattern}
+Christopher~M Bishop et~al.
+\newblock {\em Pattern recognition and machine learning}, volume~1.
+\newblock springer New York, 2006.
+
+\bibitem[\protect\citeauthoryear{Cai \bgroup \em et al.\egroup
+  }{2013}]{cai2013multi}
+Xiao Cai, Feiping Nie, and Heng Huang.
+\newblock Multi-view k-means clustering on big data.
+\newblock In {\em Proceedings of the Twenty-Third international joint
+  conference on Artificial Intelligence}, pages 2598--2604. AAAI Press, 2013.
+
+\bibitem[\protect\citeauthoryear{Chitta \bgroup \em et al.\egroup
+  }{2011}]{chitta2011approximate}
+Radha Chitta, Rong Jin, Timothy~C Havens, and Anil~K Jain.
+\newblock Approximate kernel k-means: Solution to large scale kernel
+  clustering.
+\newblock In {\em Proceedings of the 17th ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, pages 895--903. ACM, 2011.
+
+\bibitem[\protect\citeauthoryear{Chitta \bgroup \em et al.\egroup
+  }{2012}]{chitta2012efficient}
+Radha Chitta, Rong Jin, and Anil~K Jain.
+\newblock Efficient kernel clustering using random fourier features.
+\newblock In {\em ICDM}, pages 161--170, 2012.
+
+\bibitem[\protect\citeauthoryear{Dhillon \bgroup \em et al.\egroup
+  }{2004}]{dhillon2004kernel}
+Inderjit~S Dhillon, Yuqiang Guan, and Brian Kulis.
+\newblock Kernel k-means: spectral clustering and normalized cuts.
+\newblock In {\em Proceedings of the tenth ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, pages 551--556. ACM, 2004.
+
+\bibitem[\protect\citeauthoryear{Dhillon \bgroup \em et al.\egroup
+  }{2007}]{dhillon2007weighted}
+Inderjit~S Dhillon, Yuqiang Guan, and Brian Kulis.
+\newblock Weighted graph cuts without eigenvectors a multilevel approach.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, 29(11):1944--1957,
+  2007.
+
+\bibitem[\protect\citeauthoryear{Ding \bgroup \em et al.\egroup
+  }{2006}]{ding2006r}
+Chris Ding, Ding Zhou, Xiaofeng He, and Hongyuan Zha.
+\newblock R1-pca: rotational invariant l 1-norm principal component analysis
+  for robust subspace factorization.
+\newblock In {\em Proceedings of the 23rd international conference on Machine
+  learning}, pages 281--288. ACM, 2006.
+
+\bibitem[\protect\citeauthoryear{Elgohary \bgroup \em et al.\egroup
+  }{2014}]{elgohary2014Embd}
+Ahmed Elgohary, Ahmed~K. Farahat, Mohamed~S. Kamel, and Fakhri Karray.
+\newblock Embed and conquer: Scalable embeddings for kernel k-means on
+  mapreduce.
+\newblock In {\em The SIAM International Conference on Data Mining (SDM)},
+  2014.
+
+\bibitem[\protect\citeauthoryear{G{\"o}nen and
+  Alpayd{\i}n}{2011}]{gonen2011multiple}
+Mehmet G{\"o}nen and Ethem Alpayd{\i}n.
+\newblock Multiple kernel learning algorithms.
+\newblock {\em The Journal of Machine Learning Research}, 12:2211--2268, 2011.
+
+\bibitem[\protect\citeauthoryear{Gu and Zhou}{2009}]{gu2009co}
+Quanquan Gu and Jie Zhou.
+\newblock Co-clustering on manifolds.
+\newblock In {\em Proceedings of the 15th ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, pages 359--368. ACM, 2009.
+
+\bibitem[\protect\citeauthoryear{Huang \bgroup \em et al.\egroup
+  }{2012a}]{huang2012affinity}
+Hsin-Chien Huang, Yung-Yu Chuang, and Chu-Song Chen.
+\newblock Affinity aggregation for spectral clustering.
+\newblock In {\em Computer Vision and Pattern Recognition (CVPR), 2012 IEEE
+  Conference on}, pages 773--780, 2012.
+
+\bibitem[\protect\citeauthoryear{Huang \bgroup \em et al.\egroup
+  }{2012b}]{huang2012multiple}
+Hsin-Chien Huang, Yung-Yu Chuang, and Chu-Song Chen.
+\newblock Multiple kernel fuzzy clustering.
+\newblock {\em Fuzzy Systems, IEEE Transactions on}, 20(1):120--134, 2012.
+
+\bibitem[\protect\citeauthoryear{Lee and Seung}{1999}]{lee1999learning}
+Daniel~D Lee and H~Sebastian Seung.
+\newblock Learning the parts of objects by non-negative matrix factorization.
+\newblock {\em Nature}, 401(6755):788--791, 1999.
+
+\bibitem[\protect\citeauthoryear{Ng \bgroup \em et al.\egroup
+  }{2002}]{ng2002spectral}
+Andrew~Y Ng, Michael~I Jordan, Yair Weiss, et~al.
+\newblock On spectral clustering: Analysis and an algorithm.
+\newblock {\em Advances in neural information processing systems}, 2:849--856,
+  2002.
+
+\bibitem[\protect\citeauthoryear{Sch{\"o}lkopf \bgroup \em et al.\egroup
+  }{1998}]{scholkopf1998nonlinear}
+Bernhard Sch{\"o}lkopf, Alexander Smola, and Klaus-Robert M{\"u}ller.
+\newblock Nonlinear component analysis as a kernel eigenvalue problem.
+\newblock {\em Neural computation}, 10(5):1299--1319, 1998.
+
+\bibitem[\protect\citeauthoryear{Wu \bgroup \em et al.\egroup
+  }{2008}]{wu2008top}
+Xindong Wu, Vipin Kumar, J~Ross Quinlan, Joydeep Ghosh, Qiang Yang, Hiroshi
+  Motoda, Geoffrey~J McLachlan, Angus Ng, Bing Liu, S~Yu Philip, et~al.
+\newblock Top 10 algorithms in data mining.
+\newblock {\em Knowledge and Information Systems}, 14(1):1--37, 2008.
+
+\bibitem[\protect\citeauthoryear{Yang \bgroup \em et al.\egroup
+  }{2010}]{yang2010image}
+Yi~Yang, Dong Xu, Feiping Nie, Shuicheng Yan, and Yueting Zhuang.
+\newblock Image clustering using local discriminant models and global
+  integration.
+\newblock {\em Image Processing, IEEE Transactions on}, 19(10):2761--2773,
+  2010.
+
+\bibitem[\protect\citeauthoryear{Yang \bgroup \em et al.\egroup
+  }{2012}]{yang2012nystrom}
+Tianbao Yang, Yu-Feng Li, Mehrdad Mahdavi, Rong Jin, and Zhi-Hua Zhou.
+\newblock Nystr{\"o}m method vs random fourier features: A theoretical and
+  empirical comparison.
+\newblock In {\em Advances in neural information processing systems}, pages
+  476--484, 2012.
+
+\bibitem[\protect\citeauthoryear{Yu \bgroup \em et al.\egroup
+  }{2011}]{yu2011kernel}
+Shi Yu, L{\'{e}}on{-}Charles Tranchevent, Bart~De Moor, and Yves Moreau.
+\newblock {\em Kernel-based Data Fusion for Machine Learning - Methods and
+  Applications in Bioinformatics and Text Mining}, volume 345 of {\em Studies
+  in Computational Intelligence}.
+\newblock Springer, 2011.
+
+\bibitem[\protect\citeauthoryear{Yu \bgroup \em et al.\egroup
+  }{2012}]{yu2012optimized}
+Shi Yu, L-C Tranchevent, Xinhai Liu, Wolfgang Glanzel, Johan~AK Suykens, Bart
+  De~Moor, and Yves Moreau.
+\newblock Optimized data fusion for kernel k-means clustering.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions
+  on}, 34(5):1031--1039, 2012.
+
+\bibitem[\protect\citeauthoryear{Zeng and Cheung}{2011}]{zeng2011feature}
+Hong Zeng and Yiu-ming Cheung.
+\newblock Feature selection and kernel learning for local learning-based
+  clustering.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions
+  on}, 33(8):1532--1547, 2011.
+
+\bibitem[\protect\citeauthoryear{Zhang \bgroup \em et al.\egroup
+  }{2010}]{zhang2010general}
+Changshui Zhang, Feiping Nie, and Shiming Xiang.
+\newblock A general kernelization framework for learning algorithms based on
+  kernel pca.
+\newblock {\em Neurocomputing}, 73(4):959--967, 2010.
+
+\end{thebibliography}
