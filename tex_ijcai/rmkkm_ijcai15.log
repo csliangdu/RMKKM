@@ -1,0 +1,462 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.6)  2 MAY 2015 12:42
+entering extended mode
+**rmkkm_ijcai15.tex
+(E:\Sync\RMKKM\tex_ijcai\rmkkm_ijcai15.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(C:\CTEX\MiKTeX\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(C:\CTEX\MiKTeX\tex\latex\base\size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(E:\Sync\RMKKM\tex_ijcai\ijcai15.sty
+Conference Style, version of 6 September 1995 (revised Nov 2010)
+\titlebox=\skip43
+Named Citation Style, version of 30 November 1994
+) (E:\Sync\RMKKM\tex_ijcai\times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+) (E:\Sync\RMKKM\tex_ijcai\longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip44
+\LTright=\skip45
+\LTpre=\skip46
+\LTpost=\skip47
+\LTchunksize=\count87
+\LTcapwidth=\dimen103
+\LT@head=\box26
+\LT@firsthead=\box27
+\LT@foot=\box28
+\LT@lastfoot=\box29
+\LT@cols=\count88
+\LT@rows=\count89
+\c@LT@tables=\count90
+\c@LT@chunks=\count91
+\LT@p@ftn=\toks14
+)
+(E:\Sync\RMKKM\tex_ijcai\multirow.sty
+\bigstrutjot=\dimen104
+) (E:\Sync\RMKKM\tex_ijcai\colortbl.sty
+Package: colortbl 2001/02/13 v0.1j Color table columns (DPC)
+
+(C:\CTEX\MiKTeX\tex\latex\tools\array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen105
+\extrarowheight=\dimen106
+\NC@list=\toks15
+\extratabsurround=\skip48
+\backup@length=\skip49
+)
+(C:\CTEX\MiKTeX\tex\latex\graphics\color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(C:\CTEX\MiKTeX\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(C:\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count92
+))
+\everycr=\toks16
+\minrowclearance=\skip50
+)
+(E:\Sync\RMKKM\tex_ijcai\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen107
+\lightrulewidth=\dimen108
+\cmidrulewidth=\dimen109
+\belowrulesep=\dimen110
+\belowbottomsep=\dimen111
+\aboverulesep=\dimen112
+\abovetopsep=\dimen113
+\cmidrulesep=\dimen114
+\cmidrulekern=\dimen115
+\defaultaddspace=\dimen116
+\@cmidla=\count93
+\@cmidlb=\count94
+\@aboverulesep=\dimen117
+\@belowrulesep=\dimen118
+\@thisruleclass=\count95
+\@lastruleclass=\count96
+\@thisrulewidth=\dimen119
+) (E:\Sync\RMKKM\tex_ijcai\url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(E:\Sync\RMKKM\tex_ijcai\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen120
+))
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen121
+)
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count97
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count98
+\leftroot@=\count99
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count100
+\DOTSCASE@=\count101
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box30
+\strutbox@=\box31
+\big@size=\dimen122
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count102
+\c@MaxMatrixCols=\count103
+\dotsspace@=\muskip11
+\c@parentequation=\count104
+\dspbrk@lvl=\count105
+\tag@help=\toks18
+\row@=\count106
+\column@=\count107
+\maxfields@=\count108
+\andhelp@=\toks19
+\eqnshift@=\dimen123
+\alignsep@=\dimen124
+\tagshift@=\dimen125
+\tagwidth@=\dimen126
+\totwidth@=\dimen127
+\lineht@=\dimen128
+\@envbody=\toks20
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(E:\Sync\RMKKM\tex_ijcai\amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(E:\Sync\RMKKM\tex_ijcai\amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks27
+) (E:\Sync\RMKKM\tex_ijcai\bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+)
+(E:\Sync\RMKKM\tex_ijcai\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(C:\CTEX\MiKTeX\tex\latex\float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count109
+\float@exts=\toks28
+\float@box=\box32
+\@float@everytoks=\toks29
+\@floatcapt=\box33
+)
+(C:\CTEX\MiKTeX\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks30
+\c@algorithm=\count110
+)
+(E:\Sync\RMKKM\tex_ijcai\algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks31
+)
+\c@ALC@unique=\count111
+\c@ALC@line=\count112
+\c@ALC@rem=\count113
+\c@ALC@depth=\count114
+\ALC@tlm=\skip57
+\algorithmicindent=\skip58
+)
+(E:\Sync\RMKKM\tex_ijcai\threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box34
+)
+(E:\Sync\RMKKM\tex_ijcai\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen129
+\Gin@req@width=\dimen130
+)
+(E:\Sync\RMKKM\tex_ijcai\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip59
+\subfigcapskip=\skip60
+\subfigcaptopadj=\dimen131
+\subfigbottomskip=\skip61
+\subfigcapmargin=\dimen132
+\subfiglabelskip=\skip62
+\c@subfigure=\count115
+\c@lofdepth=\count116
+\c@subtable=\count117
+\c@lotdepth=\count118
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\CTEX\MiKTeX\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip63
+\subfig@bottom=\skip64
+)
+(E:\Sync\RMKKM\tex_ijcai\rmkkm_ijcai15.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 47.
+
+(C:\CTEX\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(C:\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count119
+\scratchdimen=\dimen133
+\scratchbox=\box35
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen134
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks33
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 48.
+LaTeX Font Info:    Try loading font information for U+msa on input line 48.
+ (C:\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 48.
+
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 48.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 48.
+
+(C:\CTEX\MiKTeX\tex\latex\psnfss\omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 48.
+
+Underfull \vbox (badness 1400) has occurred while \output is active []
+
+ [1{C:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}
+
+
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 67.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 71.
+ [2] [3]
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 299.
+ [4]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 301.
+
+
+(C:\CTEX\MiKTeX\tex\latex\psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
+[][]$\OT1/pcr/m/n/9 http : / / imp . iis . sinica . edu . tw / IVCLab /$
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 301--303
+[]\OT1/ptm/m/n/10 MKKM[]. The MKKM pro-posed in [] Huang \OT1/ptm/m/it/10 et al
+.\OT1/ptm/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--303
+[][]$\OT1/pcr/m/n/9 http : / / imp . iis . sinica . edu . tw / IVCLab /$
+ []
+
+
+Underfull \hbox (badness 1087) in paragraph at lines 305--306
+[]\OT1/ptm/m/n/10 RMKKM[]. The pro-posed ro-bust mul-ti-ple k-er-nel k-
+ []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 309--310
+\OT1/ptm/m/n/10 ing ap-proach-es, we ap-ply 12 d-if-fer-en-t k-er-nel func-tion
+-
+ []
+
+[5] <gamma_jaffe_213n_676d_10c_uni_res.pdf, id=39, 244.915pt x 182.6825pt>
+File: gamma_jaffe_213n_676d_10c_uni_res.pdf Graphic file (type pdf)
+
+<use gamma_jaffe_213n_676d_10c_uni_res.pdf>
+Package pdftex.def Info: gamma_jaffe_213n_676d_10c_uni_res.pdf used on input li
+ne 327.
+(pdftex.def)             Requested size: 116.35252pt x 86.78622pt.
+
+<gamma_ORL_400n_1024d_40c_zscore_uni_res.pdf, id=40, 244.915pt x 182.6825pt>
+File: gamma_ORL_400n_1024d_40c_zscore_uni_res.pdf Graphic file (type pdf)
+
+<use gamma_ORL_400n_1024d_40c_zscore_uni_res.pdf>
+Package pdftex.def Info: gamma_ORL_400n_1024d_40c_zscore_uni_res.pdf used on in
+put line 329.
+(pdftex.def)             Requested size: 121.41637pt x 90.5633pt.
+
+<gamma_tr11_414n_6429d_9c_tfidf_uni_res.pdf, id=41, 244.915pt x 182.6825pt>
+File: gamma_tr11_414n_6429d_9c_tfidf_uni_res.pdf Graphic file (type pdf)
+
+<use gamma_tr11_414n_6429d_9c_tfidf_uni_res.pdf>
+Package pdftex.def Info: gamma_tr11_414n_6429d_9c_tfidf_uni_res.pdf used on inp
+ut line 331.
+(pdftex.def)             Requested size: 116.35252pt x 86.78622pt.
+
+<gamma_tr41_878n_7454d_10c_tfidf_uni_res.pdf, id=42, 244.915pt x 182.6825pt>
+File: gamma_tr41_878n_7454d_10c_tfidf_uni_res.pdf Graphic file (type pdf)
+
+<use gamma_tr41_878n_7454d_10c_tfidf_uni_res.pdf>
+Package pdftex.def Info: gamma_tr41_878n_7454d_10c_tfidf_uni_res.pdf used on in
+put line 333.
+(pdftex.def)             Requested size: 116.35252pt x 86.78622pt.
+ [6 <E:/Sync/RMKKM/tex_ijcai/gamma_jaffe_213n_676d_10c_uni_res.pdf> <E:/Sync/RM
+KKM/tex_ijcai/gamma_ORL_400n_1024d_40c_zscore_uni_res.pdf> <E:/Sync/RMKKM/tex_i
+jcai/gamma_tr11_414n_6429d_9c_tfidf_uni_res.pdf> <E:/Sync/RMKKM/tex_ijcai/gamma
+_tr41_878n_7454d_10c_tfidf_uni_res.pdf>] (E:\Sync\RMKKM\tex_ijcai\rmkkm_ijcai15
+.bbl
+Underfull \hbox (badness 1168) in paragraph at lines 17--22
+[]\OT1/ptm/m/n/10 Radha Chit-ta, Rong Jin, Tim-o-th-y C
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 66--70
+[]\OT1/ptm/m/n/10 Quanquan Gu and Jie Zhou.  Co-
+ []
+
+
+Underfull \hbox (badness 1087) in paragraph at lines 91--95
+[]\OT1/ptm/m/n/10 Andrew Y Ng, Michael I Jor-dan, Yair
+ []
+
+
+Underfull \hbox (badness 7326) in paragraph at lines 111--116
+[]\OT1/ptm/m/n/10 Yi Yang, Dong X-u, Feip-ing Nie,
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 119--124
+[]\OT1/ptm/m/n/10 Tianbao Yang, Yu-Feng Li, Mehrdad
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 150--154
+[]\OT1/ptm/m/n/10 Changshui Zhang, Feip-ing Nie, and
+ []
+
+) [7] (E:\Sync\RMKKM\tex_ijcai\rmkkm_ijcai15.aux) ) 
+Here is how much of TeX's memory you used:
+ 3303 strings out of 495354
+ 40179 string characters out of 3183860
+ 136705 words of memory out of 3000000
+ 6367 multiletter control sequences out of 15000+200000
+ 41059 words of font info for 110 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 34i,17n,24p,1637b,461s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/CTEX/MiKTeX/fonts/enc/dv
+ips/fontname/8r.enc}<C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><C:/CTEX/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmmi10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmmi12.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:
+/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/CTEX/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmmi8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmmib10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb><C:/
+CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/CTEX/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr5.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+r7.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/CTEX/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmsy5.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C
+:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/CTEX/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmsy8.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/courier/ucrr8a
+.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/CTEX/MiKTeX/fonts/typ
+e1/urw/times/utmr8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on rmkkm_ijcai15.pdf (7 pages, 668809 bytes).
+PDF statistics:
+ 243 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+

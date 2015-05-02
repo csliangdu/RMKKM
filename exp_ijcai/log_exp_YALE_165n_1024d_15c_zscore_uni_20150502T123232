@@ -1,0 +1,55 @@
+Total number of Kernels: 12!
+KernelKmeans on 1 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_gaussian_0.01_post_Sample-Scale) begin ...
+KernelKmeans on 1 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_gaussian_0.01_post_Sample-Scale) done
+KernelKmeans on 2 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_gaussian_0.05_post_Sample-Scale) begin ...
+KernelKmeans on 2 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_gaussian_0.05_post_Sample-Scale) done
+KernelKmeans on 3 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_gaussian_0.1_post_Sample-Scale) begin ...
+KernelKmeans on 3 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_gaussian_0.1_post_Sample-Scale) done
+KernelKmeans on 4 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_gaussian_100_post_Sample-Scale) begin ...
+KernelKmeans on 4 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_gaussian_100_post_Sample-Scale) done
+KernelKmeans on 5 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_gaussian_10_post_Sample-Scale) begin ...
+KernelKmeans on 5 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_gaussian_10_post_Sample-Scale) done
+KernelKmeans on 6 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_gaussian_1_post_Sample-Scale) begin ...
+KernelKmeans on 6 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_gaussian_1_post_Sample-Scale) done
+KernelKmeans on 7 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_gaussian_50_post_Sample-Scale) begin ...
+KernelKmeans on 7 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_gaussian_50_post_Sample-Scale) done
+KernelKmeans on 8 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_linear_post_Sample-Scale) begin ...
+KernelKmeans on 8 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_linear_post_Sample-Scale) done
+KernelKmeans on 9 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_polynomial_2_post_Sample-Scale) begin ...
+KernelKmeans on 9 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_polynomial_2_post_Sample-Scale) done
+KernelKmeans on 10 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_polynomial_4_post_Sample-Scale) begin ...
+KernelKmeans on 10 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_polynomial_4_post_Sample-Scale) done
+KernelKmeans on 11 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_polyplus_2_post_Sample-Scale) begin ...
+KernelKmeans on 11 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_polyplus_2_post_Sample-Scale) done
+KernelKmeans on 12 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_polyplus_4_post_Sample-Scale) begin ...
+KernelKmeans on 12 of 12 Kernel(YALE_165n_1024d_15c_zscore_uni_kernel_polyplus_4_post_Sample-Scale) done
+Total number of Kernels: 12!
+KernelKmeans on equal weighted multi kernel begin ...
+KernelKmeans on on equal weighted multi kernel done
+Total number of Kernels: 12!
+MKKM on multi kernel begin ...
+[警告: 未找到变量 'res_mkkm_aio'。] 
+[> In <a href="matlab: opentoline('E:\Sync\RMKKM\MKKM\MKKM_multi_kernel.m',57,1)">MKKM_multi_kernel at 57</a>
+  In <a href="matlab: opentoline('E:\Sync\RMKKM\MKKM\MKKM_single_data.m',11,1)">MKKM_single_data at 11</a>
+  In <a href="matlab: opentoline('E:\Sync\RMKKM\exp_ijcai\run_single_dataset.m',18,1)">run_single_dataset at 18</a>
+  In <a href="matlab: opentoline('E:\Sync\RMKKM\exp_ijcai\run_rmkkm_ijcai_aio.m',11,1)">run_rmkkm_ijcai_aio at 11</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2014a\toolbox\matlab\lang\run.m',63,1)">run at 63</a>] 
+{操作在以下过程中被用户终止 <a href="matlab:helpUtils.errorDocCallback('path', 'C:\Program Files\MATLAB\R2014a\toolbox\matlab\general\path.m', 109)" style="font-weight:bold">path</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2014a\toolbox\matlab\general\path.m',109,0)">line 109</a>)
+
+
+位置 <a href="matlab:helpUtils.errorDocCallback('addpath', 'C:\Program Files\MATLAB\R2014a\toolbox\matlab\general\addpath.m', 86)" style="font-weight:bold">addpath</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2014a\toolbox\matlab\general\addpath.m',86,0)">line 86</a>)
+    path(p, mp);
+
+位置 <a href="matlab:helpUtils.errorDocCallback('SC_single_data', 'E:\Sync\RMKKM\SC\SC_single_data.m', 5)" style="font-weight:bold">SC_single_data</a> (<a href="matlab: opentoline('E:\Sync\RMKKM\SC\SC_single_data.m',5,0)">line 5</a>)
+addpath(fullfile(pwd, '..', 'data'));
+
+位置 <a href="matlab:helpUtils.errorDocCallback('run_single_dataset', 'E:\Sync\RMKKM\exp_ijcai\run_single_dataset.m', 20)" style="font-weight:bold">run_single_dataset</a> (<a href="matlab: opentoline('E:\Sync\RMKKM\exp_ijcai\run_single_dataset.m',20,0)">line 20</a>)
+SC_single_data(dataset, kernel_type, nRepeat);
+
+位置 <a href="matlab:helpUtils.errorDocCallback('run_rmkkm_ijcai_aio', 'E:\Sync\RMKKM\exp_ijcai\run_rmkkm_ijcai_aio.m', 11)" style="font-weight:bold">run_rmkkm_ijcai_aio</a> (<a href="matlab: opentoline('E:\Sync\RMKKM\exp_ijcai\run_rmkkm_ijcai_aio.m',11,0)">line 11</a>)
+    run_single_dataset(ds{i});
+
+位置 <a href="matlab:helpUtils.errorDocCallback('run', 'C:\Program Files\MATLAB\R2014a\toolbox\matlab\lang\run.m', 63)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2014a\toolbox\matlab\lang\run.m',63,0)">line 63</a>)
+evalin('caller', [script ';']);
+} 
+clear;clc

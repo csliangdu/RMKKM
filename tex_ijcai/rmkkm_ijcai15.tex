@@ -231,6 +231,7 @@ We collect a variety of data sets, including 5 image data sets and 3 text corpor
 \textrm{ORL}&400&1024&40\\\hline
 \textrm{AR}&840&768&120\\\hline
 \textrm{COIL20}&1440&768&20\\\hline
+\textrm{BA}&1404&320&36\\\hline
 \textrm{TR11}&414&6429&9\\\hline
 \textrm{TR41}&878&7454&10\\\hline
 \textrm{TR45}&690&8261&10\\\hline
@@ -266,6 +267,10 @@ We collect a variety of data sets, including 5 image data sets and 3 text corpor
 		& NMI &0.7405&0.6357&\textbf{0.8098}&0.5434&0.7463&0.6370&0.7072&0.4647&0.7098&0.7064&0.4187&\textbf{0.7734}\\
 		& Purity & 0.6461&0.5530&\textbf{0.6992}&0.4683&0.6635&0.5634&0.5945&0.3980&0.6012&0.5895&0.3914&\textbf{0.6995}\\
 		\midrule
+        \multirow{3}{*}{\small{BA}} & Acc & 0.4120&0.3366&0.3107&0.2625&\textbf{0.4217}&0.3435&0.3637&0.2902&0.3699&0.4052&0.2707&\textbf{0.4342}\\
+        & NMI &0.5725&0.4649&0.5076&0.4009&\textbf{0.5782}&0.4691&0.5228&0.4438&0.5293&0.5688&0.4234&\textbf{0.5847}\\
+        & Purity & 0.4420&0.3606&0.3450&0.2907&\textbf{0.4528}&0.3686&0.3876&0.3206&0.3946&0.4347&0.3029&\textbf{0.4627}\\
+        \midrule
         \multirow{3}{*}{\small{TR11}} & Acc & 0.5191&0.4465&0.5098&0.4332&\textbf{0.5303}&0.4504&0.4382&0.4651&0.4384&0.5013&0.4715&\textbf{0.5771}\\
 		& NMI & 0.4888&0.3322&0.4311&0.3139&\textbf{0.4969}&0.3348&0.3504&0.3814&0.3506&0.4456&0.3939&\textbf{0.5608}\\
 		& Purity & 0.6757&0.5632&0.5879&0.5023&\textbf{0.6793}&0.5640&0.5825&0.5464&0.5826&0.6548&0.5467&\textbf{0.7293}\\
@@ -278,13 +283,13 @@ We collect a variety of data sets, including 5 image data sets and 3 text corpor
 		& NMI & \textbf{0.5787}&0.3869&0.4803&0.3322&0.5786&0.3896&0.4022&0.4198&0.4057&0.5617&0.4194&\textbf{0.6273}\\
 		& Purity & \textbf{0.6849}&0.5364&0.6125&0.5002&0.6818&0.5375&0.5586&0.5697&0.5604&0.6914&0.5749&\textbf{0.7520}\\
 		\midrule
-		\multirow{3}{*}{\small{Average}} & mAcc & 0.5423&0.4627&\textbf{0.5634}&0.4264&0.5521&0.4690&0.4674&0.4468&0.4703&0.5198&0.3900&\textbf{0.6003}\\
-		& mNMI & 0.6385&0.5168&0.6275&0.4781&\textbf{0.6480}&0.5233&0.5433&0.5126&0.5469&0.6088&0.4364&\textbf{0.6811}\\
-		& mPurity & 0.6190&0.5257&0.6085&0.4754&\textbf{0.6279}&0.5320&0.5422&0.4996&0.5453&0.5908&0.4441&\textbf{0.6690}\\
+		\multirow{3}{*}{\small{Average}} & mAcc & 0.5279&0.4487&0.5353&0.4082&\textbf{0.5376}&0.4550&0.4559&0.4294&0.4591&0.5071&0.3767&\textbf{0.5817}\\
+		& mNMI & 0.6312&0.5110&0.6141&0.4695&\textbf{0.6402}&0.5172&0.5411&0.5049&0.5449&0.6043&0.4350&\textbf{0.6697}\\
+		& mPurity & 0.5993&0.5074&0.5792&0.4549&\textbf{0.6084}&0.5139&0.5250&0.4797&0.5286&0.5734&0.4284&\textbf{0.6462}\\
 		\bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item[*] $^*$ The parameter $\gamma$ for RMKKM is set to $0.4$ for all the data sets.
+\item[*] $^*$ The parameter $\gamma$ for RMKKM is set to $0.3$ for all the data sets.
 \end{tablenotes}
 \end{table*}
 
@@ -303,7 +308,7 @@ To demonstrate how the clustering performance can be improved by the proposed ap
 \subsection{Experiment Setup}
 Following the similar strategy of other multiple kernel learning approaches, we apply 12 different kernel functions as basis for multiple kernel clustering. These kernels include, seven RBF kernels $\mathcal{K}(\bm{x}_i, \bm{x}_j) = \exp(-||\bm{x}_i -  \bm{x}_j||^2 /2 \delta^2)$ with $\delta = t * D_0$, where $D_0$ is the maximum distance between samples and $t$ varies in the range of $\{0.01, 0.05, 0.1, 1, 10, 50, 100\}$, four polynomial kernels $\mathcal{K}(\bm{x}_i, \bm{x}_j) = (a + \bm{x}_i^T \bm{x}_j)^b$ with $a = \{0, 1\}$ and $b = \{2, 4\}$ and a cosine kernel $\mathcal{K}(\bm{x}_i, \bm{x}_j) = (\bm{x}_i^T \bm{x}_j)/(||\bm{x}_i||\cdot|| \bm{x}||)$. Finally, all the kernels have been normalized through $\mathcal{K}(\bm{x}_i, \bm{x}_j) = \mathcal{K}(\bm{x}_i, \bm{x}_j)/\sqrt{\mathcal{K}(\bm{x}_i, \bm{x}_i)\mathcal{K}(\bm{x}_j, \bm{x}_j)}$ and then rescaled to $[0,1]$.
 
-The number of clusters is set to the true number of classes for all the data sets and clustering algorithms. For SC and AASC, the discrete clustering result is obtained by running k-means on spectral embedding. For the proposed method RMKKM,  the parameter $\gamma$ to control the kernel weight distribution is set to 0.4. In addition, the results of all these compared algorithms depend on the initialization. As suggested in \cite{yang2010image}, we independently repeat the experiments for 20 times with random initializations and report the best results corresponding to the best objective values.
+The number of clusters is set to the true number of classes for all the data sets and clustering algorithms. For SC and AASC, the discrete clustering result is obtained by running k-means on spectral embedding. For the proposed method RMKKM,  the parameter $\gamma$ to control the kernel weight distribution is set to 0.3. In addition, the results of all these compared algorithms depend on the initialization. As suggested in \cite{yang2010image}, we independently repeat the experiments for 20 times with random initializations and report the best results corresponding to the best objective values.
 
 Three clustering evaluation metrics are adopted to measure the clustering performance, that is, Clustering Accuracy (Acc), Normalized Mutual Information(NMI) and Purity.
 
