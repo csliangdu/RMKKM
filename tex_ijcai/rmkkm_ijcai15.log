@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.6)  2 MAY 2015 12:46
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.6)  2 MAY 2015 16:04
 entering extended mode
 **rmkkm_ijcai15.tex
 (E:\Sync\RMKKM\tex_ijcai\rmkkm_ijcai15.tex
@@ -432,7 +432,7 @@ Underfull \hbox (badness 1442) in paragraph at lines 150--154
 Here is how much of TeX's memory you used:
  3303 strings out of 495354
  40179 string characters out of 3183860
- 136705 words of memory out of 3000000
+ 136734 words of memory out of 3000000
  6367 multiletter control sequences out of 15000+200000
  41059 words of font info for 110 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -454,7 +454,7 @@ sfonts/cm/cmsy5.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C
 pe1/public/amsfonts/cm/cmsy8.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/courier/ucrr8a
 .pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/CTEX/MiKTeX/fonts/typ
 e1/urw/times/utmr8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on rmkkm_ijcai15.pdf (7 pages, 668809 bytes).
+Output written on rmkkm_ijcai15.pdf (7 pages, 668836 bytes).
 PDF statistics:
  243 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
